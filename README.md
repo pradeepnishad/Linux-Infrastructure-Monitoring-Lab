@@ -198,5 +198,3 @@ The `troubleshooting/` directory contains documentation for the issues encounter
 - PostgreSQL backup, checksum verification, and restoration testing
 - Technical documentation and troubleshooting
 
-## Project Summary
-
